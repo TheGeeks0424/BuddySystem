@@ -17,7 +17,7 @@ Install these first; this mod does not bundle them.
 - **Subnautica** (tested against build 1.22.83031)
 - **BepInEx 5** at the game root
 - **Nitrox 1.8.1** (via Nitrox.Launcher)
-- **SubmersedVR 0.1.7** (`BepInEx/plugins/SubmersedVR.dll`)
+- **SubmersedVR 0.2.0** (`BepInEx/plugins/SubmersedVR.dll`)
 
 ## Install
 
